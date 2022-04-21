@@ -1,0 +1,4 @@
+AHT10_Port.c:14:6:AHT10_I2C_Init_Handler	8	static
+AHT10_Port.c:28:1:AHT10_I2C_Send	32	static
+AHT10_Port.c:32:1:AHT10_I2C_Receive	32	static
+AHT10_Port.c:37:6:AHT10_I2C_Delay	16	static
